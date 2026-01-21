@@ -3,7 +3,7 @@
     <div v-if="visible" class="page-loader">
         <div class="page-loader-background"></div>
         <div class="page-loader-content">
-            <p class="page-loader-text">耶温博客</p>
+            <p class="page-loader-text">提莫博客</p>
             <div class="page-loader-lines">
                 <span class="page-loader-line"></span>
                 <span class="page-loader-line"></span>

@@ -9,13 +9,13 @@
 
 export const GISCUS_CONFIG = {
     /** GitHub 仓库，格式：owner/repo */
-    repo: 'zhijian521/blog-comments',
+    repo: 'MrZMHui/my-blog',
 
     /** GitHub Discussions 的 repository ID（从 giscus.app 获取） */
-    repoId: 'R_kgDOMNskgg',
+    repoId: 'R_kgDOQ9Nbrg',
 
     /** GitHub Discussions 的 category ID（从 giscus.app 获取） */
-    categoryId: 'DIC_kwDOMNskgs4CgWpW',
+    categoryId: 'DIC_kwDOQ9Nbrs4C1N5-',
 
     /**
      * Giscus 主题

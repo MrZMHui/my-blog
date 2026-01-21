@@ -1,10 +1,10 @@
-# ✨ 耶温博客
+# ✨ 提莫博客
 
 简约优雅的静态博客系统，记录思考，分享知识
 
 ---
 
-耶温博客是一个轻量级、高性能的静态博客系统，采用 Vue 3 和 Vite 构建。支持 Markdown 撰写、全文搜索、响应式设计，开箱即用。
+提莫博客是一个轻量级、高性能的静态博客系统，采用 Vue 3 和 Vite 构建。支持 Markdown 撰写、全文搜索、响应式设计，开箱即用。
 
 ---
 
@@ -46,7 +46,7 @@ title: 你的文章标题
 date: 2024-01-01
 category: 技术
 excerpt: 文章简介
-author: 耶温
+author: 提莫
 tags:
   - JavaScript
   - Vue
@@ -130,4 +130,4 @@ export const SITE_CONFIG = {
 
 ---
 
-**Made with ❤️ by 耶温**
+**Made with ❤️ by 提莫**

@@ -14,8 +14,8 @@ const pwaConfig = {
 
     // 应用清单
     manifest: {
-        name: '耶温博客',
-        short_name: '耶温博客',
+        name: '提莫博客',
+        short_name: '提莫博客',
         description: '记录思考，分享知识',
         // 使用项目主题色（与 variables.css 保持一致）
         theme_color: '#ebe6da', // 对应 --color-bg-page，状态栏背景色
